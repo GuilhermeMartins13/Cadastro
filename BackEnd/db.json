@@ -1,0 +1,43 @@
+{
+    "user":[{
+        "id": 1,
+        "name":"Crispim Luiz Martins",
+        "email": "crisprimluiz@live.com"
+    }, {
+        "id": 2,
+        "name":"Tonico",
+        "email": "tonico@enois.com"
+    }, {
+        "id": 3,
+        "name": "Marco Tulio",
+        "email": "marcotuiliodiverde@gaymail.com"
+    }, {
+        "id": 4,
+        "name": "Igor",
+        "email": "igorpitchula@gaymail.com"
+    }, {
+        "id": 5,
+        "name": "Lennyng",
+        "email": "lennyngcudefrango@gaymail.com"
+    }, {
+        "id": 6,
+        "name": "Paulo",
+        "email": "paunogabriel@gmail.com"
+    }, {
+        "id": 7,
+        "name": "Marilia",
+        "email": "Mariliamamadeira@gmail.com"
+    }, {
+        "id": 8,
+        "name": "Daniela",
+        "email": "Daniele69@gmail.com"
+        }, {
+            "id": 9,
+            "name": "Ana Clara",
+            "email": "Aninha@gmail.com"
+            }, {
+                "id": 10,
+                "name": "Francisca",
+                "email": "Franciscapiaui@gmail.com"
+    }]
+}
